@@ -1,5 +1,5 @@
 Remove me
 Bob Claerhout
 Jane Doe
-John Doe or [ADD-YOUR-NAME-HERE]
+John Doe or Bob Claerhout
 I'm not really a name but I want to be here
