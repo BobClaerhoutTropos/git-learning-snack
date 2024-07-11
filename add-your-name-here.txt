@@ -1,5 +1,5 @@
-Remove me
-Bob Claerhout
-Jane Doe
-John Doe
-I'm not really a name but I want to be here
+Remove (I wan't this to be here, causing a conflict) me
+Bob Bongaerts or Bob Claerhout??
+Jane Doe (is she the wife of John Doe?)
+John Doe or Joe Schmo??
+Woopsiee, conflict here, I'm not really a name but I want to be here
