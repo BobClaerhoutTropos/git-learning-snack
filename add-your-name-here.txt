@@ -1,5 +1,9 @@
 Remove (I want this to be here, causing a conflict) me
+conflict
 Bob Bongaerts or Bob Claerhout??
+conflict
 Jane Doe (is she the wife of John Doe?)
+conflict
 John Doe or Joe Schmo??
+conflict
 Woopsiee, conflict here, I'm not really a name but I want to be here
